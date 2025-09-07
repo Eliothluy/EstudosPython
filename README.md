@@ -1,2 +1,0 @@
-# GeekPython
-Início estudos Python. 
