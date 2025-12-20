@@ -1,4 +1,4 @@
-'''''#Exercicio 01
+'''#Exercicio 01
 #Crie programa que o usuário digita o seu nome e retorna o número de caracteres
 
 nome = input("Digite o seu nome: ")
