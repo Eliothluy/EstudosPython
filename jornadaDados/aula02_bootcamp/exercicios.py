@@ -1,7 +1,17 @@
 # #### Inteiros (`int`)
 
-# 1. Escreva um programa que soma dois números inteiros inseridos pelo usuário.
-# 2. Crie um programa que receba um número do usuário e calcule o resto da divisão desse número por 5.
+'''# 1. Escreva um programa que soma dois números inteiros inseridos pelo usuário.
+numero1 = int(input("Digite o primeiro número: "))
+numero2 = int(input("Digite o segundo número: "))
+soma = numero1 + numero2
+print(f"A soma dos números {numero1} mais o número {numero2} é: {soma}")'''
+
+'''# 2. Crie um programa que receba um número do usuário e calcule o resto da divisão desse número por 5.
+numero = int(input("Digite um número: "))
+resto_por_5 = numero % 5
+print(f"O resto de {numero} por 5 é: {resto_por_5}")'''
+
+
 # 3. Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
 # 4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
 # 5. Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
