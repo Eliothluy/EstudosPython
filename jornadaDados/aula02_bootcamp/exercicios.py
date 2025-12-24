@@ -84,14 +84,37 @@ print(frase1 + frase2)'''
 
 # #### Booleanos (`bool`)
 
-# 16. Escreva um programa que avalie duas expressões booleanas inseridas pelo usuário e retorne o resultado da operação AND entre elas.
-expressao1 = bool(input("Digite Verdadeiro ou falso: "))
-expressao2 = bool(input("Digite Verdadeiro ou falso: "))
+"""# 16. Escreva um programa que avalie duas expressões booleanas inseridas pelo usuário e retorne o resultado da operação AND entre elas.
+expressao1 = input("Digite True ou False: ") == "True"
+expressao2 = input("Digite True ou False: ") == "True"
+
 logica = expressao1 and expressao2
-print(logica)
+print(f"O resultado de {expressao1} AND {expressao2} é: {logica}")"""
 # 17. Crie um programa que receba dois valores booleanos do usuário e retorne o resultado da operação OR.
-# 18. Desenvolva um programa que peça ao usuário para inserir um valor booleano e, em seguida, inverta esse valor.
-# 19. Faça um programa que compare se dois números fornecidos pelo usuário são iguais.
+'''expressao1 = input("Digite True ou False: ") == "True"
+expressao2 = input("Digite True ou False: ") == "True"
+
+logica = expressao1 or expressao2
+print(f"O resultado de {expressao1} OR {expressao2} é: {logica}")'''
+'''# 18. Desenvolva um programa que peça ao usuário para inserir um valor booleano e, em seguida, inverta esse valor.
+entrada = input("Digite um valor booleano (True/False): ").strip()
+valor_booleano = entrada.lower() == 'true'
+valor_invertido = not valor_booleano
+print(valor_invertido)'''
+'''# 19. Faça um programa que compare se dois números fornecidos pelo usuário são iguais.
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
+
+
+sao_iguais = numero1 == numero2
+
+
+print(f"\nO primeiro número é: {numero1}")
+print(f"O segundo número é: {numero2}")
+print(f"Os números são iguais? {sao_iguais}")
+
+# Mostrando a expressão booleana completa
+print(f"\nExpressão booleana: {numero1} == {numero2} = {sao_iguais}")'''
 # 20. Escreva um programa que verifique se dois números fornecidos pelo usuário são diferentes.
 
 # #### try-except e if
