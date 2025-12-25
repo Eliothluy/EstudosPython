@@ -124,3 +124,5 @@ print(f"\nExpressão booleana: {numero1} == {numero2} = {sao_iguais}")'''
 # 23: Calculadora Simples
 # 24: Classificador de Números
 # 25: Conversão de Tipo com Validação
+
+print(math.pi)
