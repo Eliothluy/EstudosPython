@@ -113,7 +113,6 @@ print(f"\nO primeiro número é: {numero1}")
 print(f"O segundo número é: {numero2}")
 print(f"Os números são iguais? {sao_iguais}")
 
-# Mostrando a expressão booleana completa
 print(f"\nExpressão booleana: {numero1} == {numero2} = {sao_iguais}")'''
 # 20. Escreva um programa que verifique se dois números fornecidos pelo usuário são diferentes.
 
@@ -124,5 +123,3 @@ print(f"\nExpressão booleana: {numero1} == {numero2} = {sao_iguais}")'''
 # 23: Calculadora Simples
 # 24: Classificador de Números
 # 25: Conversão de Tipo com Validação
-
-print(math.pi)
