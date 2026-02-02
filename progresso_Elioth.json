@@ -1,10 +1,15 @@
 {
   "usuario": "Elioth",
   "nivel": 1,
-  "xp_total": 0,
+  "xp_total": 10,
   "xp_necessario_proximo_nivel": 100,
   "streak": 0,
-  "ultimo_acesso": "2026-01-25T14:38:40.694300",
+  "ultimo_acesso": "2026-01-25T15:08:44.881761",
   "conquistas": [],
-  "tarefas_concluidas": {}
+  "tarefas_concluidas": {
+    "101": {
+      "data_inicio": null,
+      "data_conclusao": "2026-01-25T15:08:44.881669"
+    }
+  }
 }
